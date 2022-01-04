@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @weazleboii
+- 👋 Hi, I’m @weazleboii (Matti)
 - 👀 14 y/o from Northern Germany
 - 💻 Main Project: Chorely (https://github.com/weazleboii/chorely)
