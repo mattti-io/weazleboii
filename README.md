@@ -37,13 +37,6 @@
 <a href="https://github.com/iampawan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=weazleboii&show_icons=true&theme=dark&line_height=27" alt="weazle's github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weazleboii&repo=FlutterExampleApps&theme=dark" />
-
-</a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weazleboii&repo=VelocityX&theme=dark" />
-</a>
 
 <div align="center">
 
