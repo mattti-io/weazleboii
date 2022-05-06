@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weazleboii&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
-<a href="https://twitter.com/weazledev">
+<a href="https://twitter.com/weeaazlee">
   <img align="left" alt="My Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://github.com/weazleboii">
@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on multple things
 - 🌱 I’m currently learning more about Machine Learning & Fullstack development
-- 📫 How to reach me: [Twitter - @weazledev](https://twitter.com/weazledev)
+- 📫 How to reach me: [Twitter - @weazledev](https://twitter.com/weeaazlee)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
